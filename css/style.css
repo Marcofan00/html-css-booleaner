@@ -45,3 +45,20 @@ body{
     border-collapse:collapse;
     
 }
+
+.grigio{
+    color: grey;
+}
+
+/* footer */
+.foto1{
+    background-image: url(../img2/monitor.jpg);
+    height: 200px;
+    width: 250px;;
+}
+
+.foto2{
+    background-image: url(../img2/graph.jpg);
+    height: 200px;
+    width: 250px;
+}
