@@ -40,3 +40,8 @@ body{
 .corpo-tab{
     background-color: rgba(85, 183, 221, 0.897);
 }
+
+#tab{
+    border-collapse:collapse;
+    
+}
